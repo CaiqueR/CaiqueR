@@ -34,9 +34,6 @@ Hello, I'm Caique Ribeiro, I'm a FullStack developer from 🇧🇷.
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CaiqueR" />
 </p>  
   
-<p align="left">
-<a href="https://github.com/CaiqueR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=CaiqueR&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueR&layout=compact&langs_count=8&hide=HCL"/>
-</a>
-</p>
+[![](https://raw.githubusercontent.com/CaiqueR/CaiqueR/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/CaiqueR/CaiqueR/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/CaiqueR/CaiqueR/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
