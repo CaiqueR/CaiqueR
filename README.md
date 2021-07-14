@@ -1,4 +1,6 @@
-### Olá, eu sou [Caique!](https://github.com/CaiqueR?tab=repositories) 
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=CaiqueR&repo=CaiqueR&countColorcountColor)
+
+### Hello, I'm [Caique!](https://www.linkedin.com/in/caiquer/) 
 
 <br/>
 
@@ -6,20 +8,17 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br />
 
-Oi, eu sou Caique Ribeiro, sou um desenvolvedor FullStack do Brasil.
+Hello, I'm Caique Ribeiro, I'm a FullStack developer from 🇧🇷.
 
-**Falando sobre coisas pessoais:**
+**About me:**
 
-- 🔭 Atualmente estou trabalhando no meu projeto [Loja Virtual Flutter](https://github.com/CaiqueR/loja_virtual)
-- 🌱 Atualmente estou aprendendo Flutter & GraphQL
-- 💬 Pergunte-me qualquer coisa [aqui](https://github.com/caiquer/caiquer/issues)
-- 📫 Como me alcançar: caiquer.eds@gmail.com
-- ⚡️ Fun-Fact: Comecei apredendo Hardware e logo após conheci programação e estou aqui até hoje 😅
+- 🔭 I'm currently learning mobile development with iOS and SwiftUI
+- 🌱 I'm currently learning Flutter & GraphQL & SwiftUI
+- 💬 Ask me anything [here](https://github.com/caiquer/caiquer/issues)
+- 📫 How to reach me: caiquer.eds@gmail.com
+- ⚡️ Fun-Fact: I started learning Hardware and soon after I learned about programming and I'm still here today 😅
 
-
-
-
-**Linguagens e ferramentas:**  
+**Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -30,7 +29,14 @@ Oi, eu sou Caique Ribeiro, sou um desenvolvedor FullStack do Brasil.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   
-*NOTA: As principais linguagens não indicam meu nível de habilidade ou algo parecido, é uma métrica do github de quais idiomas eu tenho mais código no github, é um novo recurso do [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-![CaiqueR Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueR&show_icons=true&hide_border=true&hide=csharp,python,java)
-![CaiqueR Stats](https://github-readme-stats.vercel.app/api?username=CaiqueR&show_icons=true)
+<p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CaiqueR" />
+</p>  
+  
+<p align="left">
+<a href="https://github.com/CaiqueR">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=CaiqueR&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueR&layout=compact&langs_count=8&hide=HCL"/>
+</a>
+</p>
