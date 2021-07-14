@@ -1,7 +1,7 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=CaiqueR&repo=CaiqueR&countColorcountColor)
 
 ### Hello, I'm [Caique!](https://www.linkedin.com/in/caiquer/) 
-
+![Snake animation](https://github.com/CaiqueR/CaiqueR/blob/output/github-contribution-grid-snake.svg)
 <br/>
 
 [![Linkedin: caiquer](https://img.shields.io/badge/-caiquer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiquer/)](https://www.linkedin.com/in/caiquer/)
